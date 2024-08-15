@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TPL MAP SDK SAMPLE</string>
+
+    <string name="search_text">Search Location</string>
+</resources>
