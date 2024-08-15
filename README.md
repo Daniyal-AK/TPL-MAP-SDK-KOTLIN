@@ -22,7 +22,7 @@ This repository demonstrates the use of the TPL Maps SDK in an Android applicati
 
 ```bash
 git clone https://github.com/Hasnain17/TPL-MAP-SDK-KOTLIN.git
-cd tplmaps-sdk-sample
+cd TPL-MAP-SDK-KOTLIN
 ```
 
 ### 2. Open in Android Studio
