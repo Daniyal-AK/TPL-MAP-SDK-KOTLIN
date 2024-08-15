@@ -72,4 +72,3 @@ dependencies {
 ## Author
 
 - **Muhammad Hasnain Altaf** - [GitHub](https://github.com/Hasnain17)
-```
