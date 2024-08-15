@@ -21,7 +21,7 @@ This repository demonstrates the use of the TPL Maps SDK in an Android applicati
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/tplmaps-sdk-sample.git
+git clone https://github.com/Hasnain17/TPL-MAP-SDK-KOTLIN.git
 cd tplmaps-sdk-sample
 ```
 
